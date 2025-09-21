@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2 (Moonlight)</title>
+        <composer>
+          <persName>Ludwig van Beethoven</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2 (Moonlight)</title>
+        <composer>
+          <persName>Ludwig van Beethoven</persName>
+        </composer>
+            <date isodate="1801">1801</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

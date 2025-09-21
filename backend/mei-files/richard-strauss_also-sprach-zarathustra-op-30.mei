@@ -1,0 +1,21 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+      <meiHead>
+  <fileDesc>
+    <titleStmt>
+      <title>Also sprach Zarathustra, Op. 30</title>
+      <composer><persName>Richard Strauss</persName></composer>
+    </titleStmt>
+    <pubStmt/>
+  </fileDesc>
+  <workList>
+    <work>
+      <title>Also sprach Zarathustra, Op. 30</title>
+      <composer><persName>Richard Strauss</persName></composer>
+  <date isodate="1896">1896</date>
+    </work>
+  </workList>
+</meiHead>
+<music/>
+
+    </mei>

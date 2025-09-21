@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Tristan und Isolde</title>
+        <composer>
+          <persName>Richard Wagner</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Tristan und Isolde</title>
+        <composer>
+          <persName>Richard Wagner</persName>
+        </composer>
+            <date isodate="1865">1865</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

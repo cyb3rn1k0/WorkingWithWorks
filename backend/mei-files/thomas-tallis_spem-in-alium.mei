@@ -1,0 +1,22 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+      <meiHead>
+  <fileDesc>
+    <titleStmt>
+      <title>Spem in alium</title>
+      <respStmt>
+        <persName>Thomas Tallis</persName>
+      </respStmt>
+    </titleStmt>
+    <pubStmt/>
+  </fileDesc>
+  <workList>
+    <work>
+      <title>Spem in alium</title>
+  <date isodate="1570">1570</date>
+    </work>
+  </workList>
+</meiHead>
+<music/>
+
+    </mei>

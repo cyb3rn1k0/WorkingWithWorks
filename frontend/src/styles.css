@@ -1,0 +1,6 @@
+
+:root { --bg: #ffffff; --fg: #111; --muted: #6c757d; }
+[data-theme="dark"] { --bg: #0f1115; --fg: #eaeef2; --muted: #a0a7b4; }
+body { margin: 0; font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--fg); }
+.card { background: #f8f9fa; }
+[data-theme="dark"] .card { background: #1a1f29; }

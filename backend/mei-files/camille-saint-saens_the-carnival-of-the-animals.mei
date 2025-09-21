@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>The Carnival of the Animals</title>
+        <composer>
+          <persName>Camille Saint-Saëns</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>The Carnival of the Animals</title>
+        <composer>
+          <persName>Camille Saint-Saëns</persName>
+        </composer>
+            <date isodate="1886">1886</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

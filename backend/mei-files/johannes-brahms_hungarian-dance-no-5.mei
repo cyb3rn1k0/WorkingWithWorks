@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Hungarian Dance No. 5</title>
+        <composer>
+          <persName>Johannes Brahms</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Hungarian Dance No. 5</title>
+        <composer>
+          <persName>Johannes Brahms</persName>
+        </composer>
+            <date isodate="1869">1869</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

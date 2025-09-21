@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Clair de Lune (Suite bergamasque)</title>
+        <composer>
+          <persName>Claude Debussy</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Clair de Lune (Suite bergamasque)</title>
+        <composer>
+          <persName>Claude Debussy</persName>
+        </composer>
+            <date isodate="1905">1905</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

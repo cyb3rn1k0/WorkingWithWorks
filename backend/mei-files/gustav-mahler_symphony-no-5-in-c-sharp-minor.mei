@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Symphony No. 5 in C-sharp minor</title>
+        <composer>
+          <persName>Gustav Mahler</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Symphony No. 5 in C-sharp minor</title>
+        <composer>
+          <persName>Gustav Mahler</persName>
+        </composer>
+            <date isodate="1902">1902</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

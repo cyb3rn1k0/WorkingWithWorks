@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Gloria in D major, RV 589</title>
+        <composer>
+          <persName>Antonio Vivaldi</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Gloria in D major, RV 589</title>
+        <composer>
+          <persName>Antonio Vivaldi</persName>
+        </composer>
+            <date isodate="1715">1715</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Gaelic Symphony, Op. 32</title>
+        <composer><persName>Amy Beach</persName></composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Gaelic Symphony, Op. 32</title>
+        <composer><persName>Amy Beach</persName></composer>
+        <date isodate="1896">1896</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

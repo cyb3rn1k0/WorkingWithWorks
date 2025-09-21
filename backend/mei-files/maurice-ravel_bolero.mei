@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Boléro</title>
+        <composer><persName>Maurice Ravel</persName></composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Boléro</title>
+        <composer><persName>Maurice Ravel</persName></composer>
+        <date isodate="1928">1928</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

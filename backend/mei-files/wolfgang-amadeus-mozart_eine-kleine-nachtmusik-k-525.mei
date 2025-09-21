@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Eine kleine Nachtmusik, K. 525</title>
+        <composer>
+          <persName>Wolfgang Amadeus Mozart</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Eine kleine Nachtmusik, K. 525</title>
+        <composer>
+          <persName>Wolfgang Amadeus Mozart</persName>
+        </composer>
+            <date isodate="1787">1787</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

@@ -1,0 +1,21 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+      <meiHead>
+  <fileDesc>
+    <titleStmt>
+      <title>Symphony No. 9 in E minor, Op. 95 'From the New World'</title>
+      <composer><persName>Antonín Dvořák</persName></composer>
+    </titleStmt>
+    <pubStmt/>
+  </fileDesc>
+  <workList>
+    <work>
+      <title>Symphony No. 9 in E minor, Op. 95 'From the New World'</title>
+      <composer><persName>Antonín Dvořák</persName></composer>
+  <date isodate="1893">1893</date>
+    </work>
+  </workList>
+</meiHead>
+<music/>
+
+    </mei>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Symphony No. 8 in B minor, D. 759 (Unfinished)</title>
+        <composer>
+          <persName>Franz Schubert</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Symphony No. 8 in B minor, D. 759 (Unfinished)</title>
+        <composer>
+          <persName>Franz Schubert</persName>
+        </composer>
+            <date isodate="1822">1822</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

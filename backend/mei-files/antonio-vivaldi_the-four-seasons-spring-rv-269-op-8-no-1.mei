@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>The Four Seasons: Spring (RV 269, Op. 8 No. 1)</title>
+        <composer>
+          <persName>Antonio Vivaldi</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>The Four Seasons: Spring (RV 269, Op. 8 No. 1)</title>
+        <composer>
+          <persName>Antonio Vivaldi</persName>
+        </composer>
+            <date isodate="1725">1725</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

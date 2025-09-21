@@ -1,0 +1,21 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+      <meiHead>
+  <fileDesc>
+    <titleStmt>
+      <title>Lachrimae</title>
+      <contributor>
+        <persName>John Dowland</persName>
+      </contributor>
+    </titleStmt>
+    <pubStmt/>
+  </fileDesc>
+  <workList>
+    <work>
+      <title>Lachrimae</title>
+  <date isodate="1604">1604</date>
+    </work>
+  </workList>
+</meiHead>
+<music/>
+    </mei>

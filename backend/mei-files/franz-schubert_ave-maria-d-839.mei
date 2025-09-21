@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Ave Maria, D. 839</title>
+        <composer>
+          <persName>Franz Schubert</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Ave Maria, D. 839</title>
+        <composer>
+          <persName>Franz Schubert</persName>
+        </composer>
+            <date isodate="1825">1825</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

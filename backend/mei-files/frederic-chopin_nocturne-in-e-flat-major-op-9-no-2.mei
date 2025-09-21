@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Nocturne in E-flat major, Op. 9 No. 2</title>
+        <composer>
+          <persName>Frédéric Chopin</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Nocturne in E-flat major, Op. 9 No. 2</title>
+        <composer>
+          <persName>Frédéric Chopin</persName>
+        </composer>
+            <date isodate="1832">1832</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

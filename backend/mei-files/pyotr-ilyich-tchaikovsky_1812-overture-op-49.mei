@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>1812 Overture, Op. 49</title>
+        <composer>
+          <persName>Pyotr Ilyich Tchaikovsky</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>1812 Overture, Op. 49</title>
+        <composer>
+          <persName>Pyotr Ilyich Tchaikovsky</persName>
+        </composer>
+            <date isodate="1880">1880</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

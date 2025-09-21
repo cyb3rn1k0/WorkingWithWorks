@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Kinderszenen, Op. 15</title>
+        <composer>
+          <persName>Robert Schumann</persName>
+        </composer>
+      </titleStmt>
+      <pubStmt/>
+    </fileDesc>
+    <workList>
+      <work>
+        <title>Kinderszenen, Op. 15</title>
+        <composer>
+          <persName>Robert Schumann</persName>
+        </composer>
+            <date isodate="1838">1838</date>
+      </work>
+    </workList>
+  </meiHead>
+  <music/>
+</mei>

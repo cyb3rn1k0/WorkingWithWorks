@@ -1,0 +1,21 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0">
+      <meiHead>
+  <fileDesc>
+    <titleStmt>
+      <title>Vltava (The Moldau) from Má vlast</title>
+      <composer><persName>Bedřich Smetana</persName></composer>
+    </titleStmt>
+    <pubStmt/>
+  </fileDesc>
+  <workList>
+    <work>
+      <title>Vltava (The Moldau) from Má vlast</title>
+      <composer><persName>Bedřich Smetana</persName></composer>
+  <date isodate="1874">1874</date>
+    </work>
+  </workList>
+</meiHead>
+<music/>
+
+    </mei>
