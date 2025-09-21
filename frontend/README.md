@@ -1,7 +1,7 @@
 
 # Working with Works - Frontend (React + Vite)
 
-Optional SPA that consumes the Flask API. Matches the Bootstrap styling (blue buttons) used in the report.
+Optional SPA that consumes the Flask API. Matches the Bootstrap styling used in the report.
 
 ## Run
 
