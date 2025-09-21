@@ -13,5 +13,6 @@ npm run dev
 
 By default it expects the API at <http://localhost:5000>. To change it, create a `.env` with:
 
-```VITE_API_URL=http://localhost:5000
+```
+VITE_API_URL=http://localhost:5000
 ```
