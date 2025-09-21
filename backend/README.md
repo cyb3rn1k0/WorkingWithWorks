@@ -1,7 +1,7 @@
 
 # Working with Works - Backend
 
-Flask backend + built-in Bootstrap UI (blue buttons) that ingests MEI files, transforms them
+Flask backend + built-in Bootstrap UI that ingests MEI files, transforms them
 into JSON-LD (schema.org/MusicComposition), and exposes a REST API.
 
 ## Quick start (Windows PowerShell)
